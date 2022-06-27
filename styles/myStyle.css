@@ -1,0 +1,93 @@
+﻿body 
+{
+    direction:rtl;
+}
+.firstsecs > li {
+    list-style-type:none;
+}
+.tabs > li {
+    list-style-image:url(../pic/small_flower.png);
+}
+.roma > li{
+    list-style-type:lower-roman;
+}
+.secondsecs > li {
+    list-style-type: hebrew;
+}
+.greek > li {
+    list-style-type: lower-greek;
+}
+.alpa > li{
+    list-style-type:upper-alpha;
+}
+section {
+    border: 3px solid black;   
+    padding-top:1px;
+    padding-right:2px;
+    width: 300px;
+    
+}
+
+    section h1 {
+        text-align: center;
+        font-size:50px;
+        font-weight: bold;
+        color: pink;
+        padding-top:1px; 
+        
+    }
+
+#one {
+    padding-top: 2px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#two {
+    font-size: 40px;
+    color: yellow;
+}
+
+#three {
+    font-size: 40px;
+    color: blue;
+}
+
+#first {
+    height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+    margin-right: 500px;
+}
+#second {
+    height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+    margin-right:450px;
+}
+#third {
+    height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+    margin-right: 400px;
+}
+#fourth {
+    height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+    margin-right: 350px;
+}
+.end {
+    height: 200px;
+    width: 150px;
+    padding: 1px;
+    border:3px green dotted;
+}
+#big > li{
+   list-style-type:square; 
+}
+#through > li {
+    list-style-type: upper-roman;
+    text-decoration: line-through;
+}
+
